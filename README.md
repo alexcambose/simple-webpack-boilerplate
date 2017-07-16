@@ -1,6 +1,6 @@
 # Simple React Webpack Boilerplate
 
-## :bangbang: It doesn't contain production config :bangbang:
+### :bangbang: It doesn't contain production config :bangbang:
 
 ## Getting Started
 
