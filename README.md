@@ -1,4 +1,4 @@
-#Simple React Webpack Boilerplate
+# Simple React Webpack Boilerplate
 
 ## :exclamation: It doesn't contain production config :exclamation:
 
