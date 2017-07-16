@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+
+body{
+  margin: 0;
+  font-family: 'Raleway', sans-serif;
+  background-color: #efefef;
+}
+a{
+  color: #808080;
+  &:hover{color: #6e6e6e
+  }
+}
+.header{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+.title{
+  text-shadow: 0 0 4px;
+  transition: .3s all;
+  font-size: 5em;
+  margin-top: 0;
+  &:hover{
+    text-shadow: 0 0 10px;
+  }
+ }
