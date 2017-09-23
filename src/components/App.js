@@ -5,7 +5,7 @@ class App extends React.Component{
         return( 
             <div class="header">
                 <div class="title">It works!</div>
-                Created by <a target="_blank" href="https://github.com/Alexandru-Cambose">Alexandru Cambose</a>
+                Created by <a target="_blank" href="https://github.com/alexcambose">Alexandru Cambose</a>
             </div>
         );
     }
