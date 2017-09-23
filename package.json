@@ -4,8 +4,8 @@
   "description": "",
   "main": "main.js",
   "scripts": {
-    "bundle": "node ./node_modules/.bin/webpack",
-    "serve": "node ./node_modules/.bin/webpack-dev-server --open"
+    "bundle": "./node_modules/.bin/webpack",
+    "serve": "./node_modules/.bin/webpack-dev-server --open"
   },
   "keywords": [],
   "author": "Alexandru Cambose",
